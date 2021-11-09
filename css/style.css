@@ -53,6 +53,7 @@ body {
   border-style: solid;
   border-color: gray;
   border-radius: 10px;
+  color: inherit;
 }
 
 .space {
