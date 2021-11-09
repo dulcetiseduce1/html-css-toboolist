@@ -1,0 +1,61 @@
+
+
+#logo {
+    vertical-align: middle;
+}
+
+html {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display:inline;
+    vertical-align: middle;
+}
+
+header {
+    padding:20px;
+    background-color: white;
+}
+
+body {
+    margin:0 auto;
+    background-color: whitesmoke;
+}
+
+main {
+
+    margin:20%;
+}
+
+.container{
+    padding:5%;
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+
+}
+
+#task {
+    display:inline-block;
+    width:80px;
+    padding: 8px 8px;
+    margin:5px 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color:dodgerblue;
+    border-radius:10px;
+}
+
+#section {
+    display:inline-block;
+    width:100px;
+    margin:5px 5px;
+    padding: 8px 8px;
+    text-decoration: none;
+    border:1px;
+    border-style: solid;
+    border-color:gray;
+    border-radius:10px;
+}
