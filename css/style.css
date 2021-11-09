@@ -24,12 +24,13 @@ body {
 .container {
   padding: 5%;
   padding-top: 20px;
-  margin: 10%;
+  margin: 5%;
   margin-left: 20%;
   margin-right: 20%;
   width: auto;
   height: auto;
   background-color: white;
+  border-radius: 30px;
 }
 
 #task {
@@ -52,6 +53,10 @@ body {
   border-style: solid;
   border-color: gray;
   border-radius: 10px;
+}
+
+.space {
+  margin-top: 50px;
 }
 
 ul {
@@ -168,4 +173,8 @@ li {
   border-radius: 10px;
   color: orangered;
   text-align: center;
+}
+
+.arrow {
+  font-size: small;
 }
