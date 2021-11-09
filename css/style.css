@@ -160,7 +160,6 @@ li {
   border-color: lime;
   border-radius: 10px;
   color: lime;
-  text-align: center;
 }
 
 .text-red {
@@ -173,7 +172,6 @@ li {
   border-color: orangered;
   border-radius: 10px;
   color: orangered;
-  text-align: center;
 }
 
 .arrow {
