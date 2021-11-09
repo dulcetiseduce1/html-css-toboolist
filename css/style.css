@@ -23,16 +23,14 @@ body {
     background-color: whitesmoke;
 }
 
-main {
-
-    margin:20%;
-}
-
 .container{
     padding:5%;
-    margin: 0 auto;
-    width: 500px;
-    height: 100px;
+    padding-top:20px;
+    margin: 10%;
+    margin-left:20%;
+    margin-right:20%;
+    width: auto;
+    height: auto;
     background-color: white;
 
 }
@@ -41,7 +39,6 @@ main {
     display:inline-block;
     width:80px;
     padding: 8px 8px;
-    margin:5px 5px;
     text-decoration: none;
     color: #fff;
     background-color:dodgerblue;
@@ -58,4 +55,120 @@ main {
     border-style: solid;
     border-color:gray;
     border-radius:10px;
+}
+
+ul {
+    padding:0;
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+li{
+    font-weight:normal;
+    font-size:15px;
+    padding:10px 20px;
+}
+
+.editorial {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color: skyblue;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.q1 {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color:mediumslateblue;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.recruiting {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color:lightgreen;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.mobile {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color:darkorange;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.website {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color:hotpink;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.sales {
+    color:white;
+    display:inline-block;
+    font-size: 8px;
+    background-color:yellowgreen;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.editorial {
+    color:white;
+    
+    font-size: 8px;
+    background-color: darkorange;
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    vertical-align: middle;
+}
+
+.text-green{
+    display:inline-block;
+    width:15px;
+    height:15px;
+    text-decoration: none;
+    border:1px;
+    border-style: solid;
+    border-color:lime;
+    border-radius:10px;
+    color:lime;
+    text-align: center;
+}
+
+.text-red{
+    display:inline-block;
+    width:15px;
+    height:15px;
+    text-decoration: none;
+    border:1px;
+    border-style: solid;
+    border-color:orangered;
+    border-radius:10px;
+    color:orangered;
+    text-align: center;
 }
