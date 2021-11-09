@@ -1,174 +1,171 @@
-
-
 #logo {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 html {
-    font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    display:inline;
-    vertical-align: middle;
+  display: inline;
+  vertical-align: middle;
 }
 
 header {
-    padding:20px;
-    background-color: white;
+  padding: 20px;
+  background-color: white;
 }
 
 body {
-    margin:0 auto;
-    background-color: whitesmoke;
+  margin: 0 auto;
+  background-color: whitesmoke;
 }
 
-.container{
-    padding:5%;
-    padding-top:20px;
-    margin: 10%;
-    margin-left:20%;
-    margin-right:20%;
-    width: auto;
-    height: auto;
-    background-color: white;
-
+.container {
+  padding: 5%;
+  padding-top: 20px;
+  margin: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: auto;
+  height: auto;
+  background-color: white;
 }
 
 #task {
-    display:inline-block;
-    width:80px;
-    padding: 8px 8px;
-    text-decoration: none;
-    color: #fff;
-    background-color:dodgerblue;
-    border-radius:10px;
+  display: inline-block;
+  width: 80px;
+  padding: 8px 8px;
+  text-decoration: none;
+  color: #fff;
+  background-color: dodgerblue;
+  border-radius: 10px;
 }
 
 #section {
-    display:inline-block;
-    width:100px;
-    margin:5px 5px;
-    padding: 8px 8px;
-    text-decoration: none;
-    border:1px;
-    border-style: solid;
-    border-color:gray;
-    border-radius:10px;
+  display: inline-block;
+  width: 100px;
+  margin: 5px 5px;
+  padding: 8px 8px;
+  text-decoration: none;
+  border: 1px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 10px;
 }
 
 ul {
-    padding:0;
-    list-style-type: none;
-    font-size: 25px;
-    font-weight: bold;
-  }
+  padding: 0;
+  list-style-type: none;
+  font-size: 25px;
+  font-weight: bold;
+}
 
-li{
-    font-weight:normal;
-    font-size:15px;
-    padding:10px 20px;
+li {
+  font-weight: normal;
+  font-size: 15px;
+  padding: 10px 20px;
 }
 
 .editorial {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color: skyblue;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: skyblue;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .q1 {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color:mediumslateblue;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: mediumslateblue;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .recruiting {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color:lightgreen;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: lightgreen;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .mobile {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color:darkorange;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: darkorange;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .website {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color:hotpink;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: hotpink;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .sales {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color:yellowgreen;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: yellowgreen;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
 .editorial2 {
-    color:white;
-    display:inline-block;
-    font-size: 8px;
-    background-color: darkorange;
-    border-radius: 15px;
-    padding: 5px 5px;
-    margin:5px 5px;
-    vertical-align: middle;
+  color: white;
+  display: inline-block;
+  font-size: 8px;
+  background-color: darkorange;
+  border-radius: 15px;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  vertical-align: middle;
 }
 
-.text-green{
-    display:inline-block;
-    width:15px;
-    height:15px;
-    text-decoration: none;
-    border:1px;
-    border-style: solid;
-    border-color:lime;
-    border-radius:10px;
-    color:lime;
-    text-align: center;
+.text-green {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  text-decoration: none;
+  border: 1px;
+  border-style: solid;
+  border-color: lime;
+  border-radius: 10px;
+  color: lime;
+  text-align: center;
 }
 
-.text-red{
-    display:inline-block;
-    width:15px;
-    height:15px;
-    text-decoration: none;
-    border:1px;
-    border-style: solid;
-    border-color:orangered;
-    border-radius:10px;
-    color:orangered;
-    text-align: center;
+.text-red {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  text-decoration: none;
+  border: 1px;
+  border-style: solid;
+  border-color: orangered;
+  border-radius: 10px;
+  color: orangered;
+  text-align: center;
 }
