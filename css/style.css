@@ -177,5 +177,6 @@ li {
 }
 
 .arrow {
+  display: inline-block;
   font-size: small;
 }
